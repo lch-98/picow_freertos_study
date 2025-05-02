@@ -1,4 +1,4 @@
-# Install script for directory: /home/lee/pico/pico-sdk/src/common/boot_picoboot_headers
+# Install script for directory: /home/lee/pico-freertos/pico-sdk/src/common/boot_picoboot_headers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/lee/pico/pico-sdk/src
+# Install script for directory: /home/lee/pico-freertos/pico-sdk/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

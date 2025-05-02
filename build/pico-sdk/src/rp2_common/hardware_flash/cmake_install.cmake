@@ -1,4 +1,4 @@
-# Install script for directory: /home/lee/pico/pico-sdk/src/rp2_common/hardware_flash
+# Install script for directory: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_flash
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

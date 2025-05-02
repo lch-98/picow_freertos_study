@@ -1,4 +1,4 @@
-# Install script for directory: /home/lee/pico/pico-sdk/src/rp2040/hardware_regs
+# Install script for directory: /home/lee/pico-freertos/pico-sdk/src/rp2040/hardware_regs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
