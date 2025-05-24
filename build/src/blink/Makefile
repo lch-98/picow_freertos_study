@@ -130,34 +130,6 @@ picow_blink/fast:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/build
 .PHONY : picow_blink/fast
 
-# Convenience name for target.
-src/blink/CMakeFiles/picotoolForceReconfigure.dir/rule:
-	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/blink/CMakeFiles/picotoolForceReconfigure.dir/rule
-.PHONY : src/blink/CMakeFiles/picotoolForceReconfigure.dir/rule
-
-# Convenience name for target.
-picotoolForceReconfigure: src/blink/CMakeFiles/picotoolForceReconfigure.dir/rule
-.PHONY : picotoolForceReconfigure
-
-# fast build rule for target.
-picotoolForceReconfigure/fast:
-	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picotoolForceReconfigure.dir/build.make src/blink/CMakeFiles/picotoolForceReconfigure.dir/build
-.PHONY : picotoolForceReconfigure/fast
-
-# Convenience name for target.
-src/blink/CMakeFiles/picotoolBuild.dir/rule:
-	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/blink/CMakeFiles/picotoolBuild.dir/rule
-.PHONY : src/blink/CMakeFiles/picotoolBuild.dir/rule
-
-# Convenience name for target.
-picotoolBuild: src/blink/CMakeFiles/picotoolBuild.dir/rule
-.PHONY : picotoolBuild
-
-# fast build rule for target.
-picotoolBuild/fast:
-	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picotoolBuild.dir/build.make src/blink/CMakeFiles/picotoolBuild.dir/build
-.PHONY : picotoolBuild/fast
-
 __/__/FreeRTOS-Kernel/croutine.o: __/__/FreeRTOS-Kernel/croutine.c.o
 .PHONY : __/__/FreeRTOS-Kernel/croutine.o
 
@@ -2078,8 +2050,6 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... picotoolBuild"
-	@echo "... picotoolForceReconfigure"
 	@echo "... picow_blink"
 	@echo "... __/__/FreeRTOS-Kernel/croutine.o"
 	@echo "... __/__/FreeRTOS-Kernel/croutine.i"

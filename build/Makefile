@@ -156,19 +156,6 @@ bs2_default_library/fast:
 .PHONY : bs2_default_library/fast
 
 #=============================================================================
-# Target rules for targets named pioasmBuild
-
-# Build rule for target.
-pioasmBuild: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pioasmBuild
-.PHONY : pioasmBuild
-
-# fast build rule for target.
-pioasmBuild/fast:
-	$(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/build.make pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/build
-.PHONY : pioasmBuild/fast
-
-#=============================================================================
 # Target rules for targets named cyw43_driver_picow_cyw43_bus_pio_spi_pio_h
 
 # Build rule for target.
@@ -195,30 +182,17 @@ picow_blink/fast:
 .PHONY : picow_blink/fast
 
 #=============================================================================
-# Target rules for targets named picotoolForceReconfigure
+# Target rules for targets named wifi_connect
 
 # Build rule for target.
-picotoolForceReconfigure: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 picotoolForceReconfigure
-.PHONY : picotoolForceReconfigure
+wifi_connect: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 wifi_connect
+.PHONY : wifi_connect
 
 # fast build rule for target.
-picotoolForceReconfigure/fast:
-	$(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picotoolForceReconfigure.dir/build.make src/blink/CMakeFiles/picotoolForceReconfigure.dir/build
-.PHONY : picotoolForceReconfigure/fast
-
-#=============================================================================
-# Target rules for targets named picotoolBuild
-
-# Build rule for target.
-picotoolBuild: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 picotoolBuild
-.PHONY : picotoolBuild
-
-# fast build rule for target.
-picotoolBuild/fast:
-	$(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picotoolBuild.dir/build.make src/blink/CMakeFiles/picotoolBuild.dir/build
-.PHONY : picotoolBuild/fast
+wifi_connect/fast:
+	$(MAKE) $(MAKESILENT) -f src/wifi_connect/CMakeFiles/wifi_connect.dir/build.make src/wifi_connect/CMakeFiles/wifi_connect.dir/build
+.PHONY : wifi_connect/fast
 
 # Help Target
 help:
@@ -230,12 +204,10 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... bs2_default_bin"
 	@echo "... cyw43_driver_picow_cyw43_bus_pio_spi_pio_h"
-	@echo "... picotoolBuild"
-	@echo "... picotoolForceReconfigure"
-	@echo "... pioasmBuild"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
 	@echo "... picow_blink"
+	@echo "... wifi_connect"
 .PHONY : help
 
 
