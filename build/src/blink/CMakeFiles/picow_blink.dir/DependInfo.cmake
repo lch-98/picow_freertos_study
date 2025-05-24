@@ -74,7 +74,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "PICO_32BIT=1"
   "PICO_BOARD=\"pico_w\""
   "PICO_BUILD=1"
-  "PICO_CMAKE_BUILD_TYPE=\"Debug\""
+  "PICO_CMAKE_BUILD_TYPE=\"Release\""
   "PICO_CONFIG_RTOS_ADAPTER_HEADER=/home/lee/pico-freertos/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/freertos_sdk_config.h"
   "PICO_COPY_TO_RAM=0"
   "PICO_CXX_ENABLE_EXCEPTIONS=0"

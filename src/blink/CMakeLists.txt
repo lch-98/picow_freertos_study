@@ -12,6 +12,6 @@ target_link_libraries(picow_blink
     pico_stdlib 
     pico_cyw43_arch_none 
     FreeRTOS-Kernel-Heap4
-    )
+)
 
 pico_add_extra_outputs(picow_blink)
