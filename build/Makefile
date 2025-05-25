@@ -194,6 +194,19 @@ wifi_connect/fast:
 	$(MAKE) $(MAKESILENT) -f src/wifi_connect/CMakeFiles/wifi_connect.dir/build.make src/wifi_connect/CMakeFiles/wifi_connect.dir/build
 .PHONY : wifi_connect/fast
 
+#=============================================================================
+# Target rules for targets named http_get
+
+# Build rule for target.
+http_get: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 http_get
+.PHONY : http_get
+
+# fast build rule for target.
+http_get/fast:
+	$(MAKE) $(MAKESILENT) -f src/http_get/CMakeFiles/http_get.dir/build.make src/http_get/CMakeFiles/http_get.dir/build
+.PHONY : http_get/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -206,6 +219,7 @@ help:
 	@echo "... cyw43_driver_picow_cyw43_bus_pio_spi_pio_h"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
+	@echo "... http_get"
 	@echo "... picow_blink"
 	@echo "... wifi_connect"
 .PHONY : help

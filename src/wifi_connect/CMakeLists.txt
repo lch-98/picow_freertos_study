@@ -9,7 +9,7 @@ target_include_directories(wifi_connect PRIVATE
 
 target_link_libraries(wifi_connect 
     pico_stdlib 
-    pico_stdio_usb  # if you want chk terminal print
+    pico_stdio_usb  # usb port connect -> /dev/ttyACM0, if you want chk terminal print
     pico_cyw43_arch_lwip_threadsafe_background
 )
 
