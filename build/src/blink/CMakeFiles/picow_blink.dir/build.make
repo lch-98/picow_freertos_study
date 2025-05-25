@@ -856,290 +856,10 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio_ua
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
 
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_flash/flash.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_flash/flash.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_flash/flash.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_flash/flash.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o -c /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o -c /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o -c /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o -c /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_pio/pio.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_pio/pio.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_pio/pio.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_pio/pio.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_dma/dma.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_dma/dma.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_dma/dma.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_dma/dma.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
-
-src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s"
-	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
-
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/portable/MemMang/heap_4.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/portable/MemMang/heap_4.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.i: cmake_force
@@ -1153,7 +873,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.i: cmake_force
@@ -1167,7 +887,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/G
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/croutine.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/croutine.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.i: cmake_force
@@ -1181,7 +901,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.s: cmake_f
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/event_groups.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/event_groups.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.i: cmake_force
@@ -1195,7 +915,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/event_groups.c.s: cma
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/list.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/list.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.i: cmake_force
@@ -1209,7 +929,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/list.c.s: cmake_force
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/queue.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/queue.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.i: cmake_force
@@ -1223,7 +943,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/queue.c.s: cmake_forc
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/stream_buffer.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/stream_buffer.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.i: cmake_force
@@ -1237,7 +957,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.s: cm
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/tasks.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/tasks.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.i: cmake_force
@@ -1251,7 +971,7 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.s: cmake_forc
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o: /home/lee/pico-freertos/FreeRTOS-Kernel/timers.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o -MF CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o.d -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o -c /home/lee/pico-freertos/FreeRTOS-Kernel/timers.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.i: cmake_force
@@ -1262,10 +982,24 @@ src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.s: cmake_for
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.s"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/FreeRTOS-Kernel/timers.c -o CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.s
 
+src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
+src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c
+src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o"
+	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c
+
+src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i"
+	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c > CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
+
+src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s"
+	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lee/pico-freertos/pico-sdk/src/rp2_common/hardware_exception/exception.c -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
+
 src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o: src/blink/CMakeFiles/picow_blink.dir/flags.make
 src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o: src/blink/CMakeFiles/picow_blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o"
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o -MF CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o.d -o CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o -c /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 
 src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.i: cmake_force
@@ -1335,26 +1069,6 @@ picow_blink_OBJECTS = \
 "CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o" \
-"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o" \
@@ -1364,6 +1078,7 @@ picow_blink_OBJECTS = \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o" \
+"CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o" \
 "CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o"
 
 # External object files for target picow_blink
@@ -1426,26 +1141,6 @@ src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/s
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o
-src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/croutine.c.o
@@ -1455,12 +1150,13 @@ src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-K
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/stream_buffer.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/tasks.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.o
+src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/build.make
 src/blink/picow_blink.elf: pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o
 src/blink/picow_blink.elf: /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_crt0/rp2040/memmap_default.ld
 src/blink/picow_blink.elf: src/blink/CMakeFiles/picow_blink.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable picow_blink.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Linking CXX executable picow_blink.elf"
 	cd /home/lee/pico-freertos/build/src/blink && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/picow_blink.dir/link.txt --verbose=$(VERBOSE)
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-objdump -h /home/lee/pico-freertos/build/src/blink/picow_blink.elf > picow_blink.dis
 	cd /home/lee/pico-freertos/build/src/blink && /usr/bin/arm-none-eabi-objdump -d /home/lee/pico-freertos/build/src/blink/picow_blink.elf >> picow_blink.dis

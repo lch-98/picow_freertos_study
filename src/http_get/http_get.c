@@ -10,8 +10,8 @@
 
 #include "json/jsmn.h"
 
-#define WIFI_SSID "project"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "WiFI ID" // your wifi ID
+#define WIFI_PASS "WIFI PASSWORD" // your wifi PASSWORD
 
 #define HTTP_SERVER "httpbin.org"
 #define HTTP_PORT 80
