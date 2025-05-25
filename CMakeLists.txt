@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON CACHE BOOL "Enable compile_commands.json" FORCE)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON CACHE BOOL "Enable compile_commands.json" FORCE) # Create complete_commands.json during build project
 SET(FREERTOS_KERNEL_PATH ${CMAKE_CURRENT_SOURCE_DIR}/FreeRTOS-Kernel)
 
 include(pico_sdk_import.cmake)
