@@ -33,13 +33,13 @@ int jsmn_eq(const char *json, jsmntok_t *tok, const char *s) {
 
 // 날짜 및 시간 생성
 void get_current_date(char *buf) {
-    time_t now = get_ntp_time();
+    time_t now = get_ntp_time() + 9 * 60 * 60;
     struct tm *t = localtime(&now);
     strftime(buf, 9, "%Y%m%d", t);
 }
 
 void get_current_hour(char *buf) {
-    time_t now = get_ntp_time();
+    time_t now = get_ntp_time() + 9 * 60 * 60;
     struct tm *t = localtime(&now);
     strftime(buf, 5, "%H%M", t);
 }
