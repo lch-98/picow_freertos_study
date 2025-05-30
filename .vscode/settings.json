@@ -2,4 +2,12 @@
     "cmake.sourceDirectory": "/home/lee/pico-freertos",
     "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
     "ros.distro": "foxy",
+    "files.associations": {
+        "jsmn.h": "c",
+        "sntp.h": "c",
+        "dns.h": "c",
+        "ip_addr.h": "c",
+        "lwipopts_examples_common.h": "c",
+        "udp.h": "c"
+    },
 }

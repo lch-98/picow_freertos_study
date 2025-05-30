@@ -219,7 +219,21 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/9/bits/regex_compiler.tcc \
  /usr/include/c++/9/bits/regex.h /usr/include/c++/9/bits/regex.tcc \
  /usr/include/c++/9/bits/regex_executor.h \
- /usr/include/c++/9/bits/regex_executor.tcc /usr/include/c++/9/cuchar \
+ /usr/include/c++/9/bits/regex_executor.tcc /usr/include/c++/9/random \
+ /usr/include/c++/9/cmath /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
+ /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h \
+ /usr/include/c++/9/bits/random.h \
+ /usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h \
+ /usr/include/c++/9/bits/random.tcc /usr/include/c++/9/cuchar \
  /usr/include/uchar.h /usr/include/c++/9/set \
  /usr/include/c++/9/bits/stl_set.h /usr/include/c++/9/bits/stl_multiset.h \
  /usr/include/c++/9/cstdarg /usr/include/c++/9/iomanip \
@@ -229,6 +243,11 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /home/lee/pico-freertos/pico-sdk/src/host/pico_platform/include/pico/platform.h \
  /home/lee/pico-freertos/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h \
+ /home/lee/pico-freertos/build/_deps/picotool-src/get_enc_bootloader.h \
+ /usr/include/c++/9/fstream \
+ /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
+ /usr/include/c++/9/bits/fstream.tcc \
  /home/lee/pico-freertos/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
  /home/lee/pico-freertos/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
  /home/lee/pico-freertos/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
@@ -259,10 +278,6 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h \
- /usr/include/c++/9/fstream \
- /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
- /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
- /usr/include/c++/9/bits/fstream.tcc \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/addresses.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/bintool/metadata.h \
@@ -283,17 +298,6 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/9/unordered_map /usr/include/c++/9/bits/hashtable.h \
  /usr/include/c++/9/bits/hashtable_policy.h \
  /usr/include/c++/9/bits/unordered_map.h /usr/include/c++/9/valarray \
- /usr/include/c++/9/cmath /usr/include/math.h \
- /usr/include/x86_64-linux-gnu/bits/math-vector.h \
- /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
- /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
- /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
- /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
- /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /usr/include/x86_64-linux-gnu/bits/mathinline.h \
  /usr/include/c++/9/bits/valarray_array.h \
  /usr/include/c++/9/bits/valarray_array.tcc \
  /usr/include/c++/9/bits/valarray_before.h \

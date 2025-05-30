@@ -207,6 +207,19 @@ http_get/fast:
 	$(MAKE) $(MAKESILENT) -f src/http_get/CMakeFiles/http_get.dir/build.make src/http_get/CMakeFiles/http_get.dir/build
 .PHONY : http_get/fast
 
+#=============================================================================
+# Target rules for targets named http_weather
+
+# Build rule for target.
+http_weather: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 http_weather
+.PHONY : http_weather
+
+# fast build rule for target.
+http_weather/fast:
+	$(MAKE) $(MAKESILENT) -f src/http_weather/CMakeFiles/http_weather.dir/build.make src/http_weather/CMakeFiles/http_weather.dir/build
+.PHONY : http_weather/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -220,6 +233,7 @@ help:
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
 	@echo "... http_get"
+	@echo "... http_weather"
 	@echo "... picow_blink"
 	@echo "... wifi_connect"
 .PHONY : help

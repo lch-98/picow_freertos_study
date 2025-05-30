@@ -42,6 +42,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/lee/pico-freertos/build/src/blink/cmake_install.cmake")
   include("/home/lee/pico-freertos/build/src/wifi_connect/cmake_install.cmake")
   include("/home/lee/pico-freertos/build/src/http_get/cmake_install.cmake")
+  include("/home/lee/pico-freertos/build/src/http_weather/cmake_install.cmake")
 
 endif()
 

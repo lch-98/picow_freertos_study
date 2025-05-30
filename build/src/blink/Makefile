@@ -346,6 +346,102 @@ __/__/FreeRTOS-Kernel/timers.c.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/FreeRTOS-Kernel/timers.c.s
 .PHONY : __/__/FreeRTOS-Kernel/timers.c.s
 
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.o: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.o
+
+# target to build an object file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i
+
+# target to preprocess a source file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.o: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.o
+
+# target to build an object file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i
+
+# target to preprocess a source file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.o: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.o
+
+# target to build an object file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i
+
+# target to preprocess a source file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.o: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.o
+
+# target to build an object file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i
+
+# target to preprocess a source file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s: __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+.PHONY : __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+
 __/__/pico-sdk/src/common/hardware_claim/claim.o: __/__/pico-sdk/src/common/hardware_claim/claim.c.o
 .PHONY : __/__/pico-sdk/src/common/hardware_claim/claim.o
 
@@ -666,6 +762,30 @@ __/__/pico-sdk/src/rp2_common/hardware_divider/divider.S.o:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_divider/divider.S.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_divider/divider.S.o
 
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.o: __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.o
+
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.i: __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.s: __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+
 __/__/pico-sdk/src/rp2_common/hardware_exception/exception.o: __/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_exception/exception.o
 
@@ -689,6 +809,30 @@ __/__/pico-sdk/src/rp2_common/hardware_exception/exception.s: __/__/pico-sdk/src
 __/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
+
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.o: __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
+
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.i: __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.s: __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
 
 __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.o: __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.o
@@ -745,6 +889,30 @@ __/__/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.o: __/__/pico-sdk/s
 __/__/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o
+
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.o: __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.o
+
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.i: __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.s: __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
 
 __/__/pico-sdk/src/rp2_common/hardware_pll/pll.o: __/__/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_pll/pll.o
@@ -938,6 +1106,30 @@ __/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
 
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.o: __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o
+
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.i: __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i
+
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.s: __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.s
+
 __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.o: __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.o
 
@@ -961,6 +1153,54 @@ __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.s: __/__/pico-sdk/src/rp2_commo
 __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
 .PHONY : __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.o: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.i: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.s: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.o: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.i: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.s: __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s
 
 __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.o: __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o
 .PHONY : __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.o
@@ -1097,6 +1337,198 @@ __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.s: __/__/pico-sdk/src/
 __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.s
 .PHONY : __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.s
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.o: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.i: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.s: __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s
 
 __/__/pico-sdk/src/rp2_common/pico_divider/divider_hardware.o: __/__/pico-sdk/src/rp2_common/pico_divider/divider_hardware.S.o
 .PHONY : __/__/pico-sdk/src/rp2_common/pico_divider/divider_hardware.o
@@ -1562,6 +1994,30 @@ __/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s:
 	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 .PHONY : __/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.o: __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.o
+
+# target to build an object file
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
+
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i: __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
+
+# target to preprocess a source file
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s: __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+
+# target to generate assembly for a file
+__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
+	cd /home/lee/pico-freertos/build && $(MAKE) $(MAKESILENT) -f src/blink/CMakeFiles/picow_blink.dir/build.make src/blink/CMakeFiles/picow_blink.dir/__/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -1622,6 +2078,18 @@ help:
 	@echo "... __/__/FreeRTOS-Kernel/timers.o"
 	@echo "... __/__/FreeRTOS-Kernel/timers.i"
 	@echo "... __/__/FreeRTOS-Kernel/timers.s"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.o"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.o"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.o"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.o"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i"
+	@echo "... __/__/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s"
 	@echo "... __/__/pico-sdk/src/common/hardware_claim/claim.o"
 	@echo "... __/__/pico-sdk/src/common/hardware_claim/claim.i"
 	@echo "... __/__/pico-sdk/src/common/hardware_claim/claim.s"
@@ -1662,9 +2130,15 @@ help:
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_clocks/clocks.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_clocks/clocks.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_divider/divider.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_dma/dma.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_dma/dma.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_dma/dma.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_exception/exception.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_exception/exception.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_exception/exception.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_flash/flash.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_flash/flash.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_flash/flash.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_gpio/gpio.s"
@@ -1672,6 +2146,9 @@ help:
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_irq/irq.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_irq/irq.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pio/pio.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pio/pio.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pio/pio.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pll/pll.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pll/pll.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_pll/pll.s"
@@ -1696,9 +2173,18 @@ help:
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/hardware_xosc/xosc.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_base.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_atomic/atomic.s"
@@ -1716,6 +2202,30 @@ help:
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.s"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_divider/divider_hardware.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_double/double_aeabi_rp2040.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_double/double_init_rom_rp2040.o"
@@ -1774,6 +2284,9 @@ help:
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.o"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i"
 	@echo "... __/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.o"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i"
+	@echo "... __/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
