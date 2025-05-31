@@ -1,3 +1,10 @@
+## 🧵 Raspberry Pi Pico W + FreeRTOS Study
+
+이 저장소는 **Raspberry Pi Pico W**에서 **FreeRTOS와 Network**를 실습하며 RTOS의 개념과 기능을 학습하기 위한 프로젝트입니다.  
+학습 목적에 맞춘 다양한 예제 코드(Task, Timer, Queue, Http, Wifi 등)를 포함하고 있으며, Pico SDK 및 FreeRTOS 환경 설정까지 직접 구성했습니다.
+<br><br>
+
+
 ## 📦 프로젝트 구조
 | 프로젝트 폴더(src)      | 설명                            |
 |-----------------|---------------------------------|
@@ -12,6 +19,9 @@
 |-----------------|---------------------------------|
 | FreeRTOS-Kernel   | FreeRTOS 공식 커널  |
 | pico-sdk   | 라즈베리파이 피코 공식 SDK   |
+
+<br>
+
 
 ## 🚀 빌드 및 실행 방법
 ```bash
