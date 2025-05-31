@@ -1,9 +1,20 @@
 ## 🧵 Raspberry Pi Pico W + FreeRTOS Study
 
-이 저장소는 **Raspberry Pi Pico W**에서 **FreeRTOS와 Network**를 실습하며 RTOS의 개념과 기능을 학습하기 위한 프로젝트입니다.  
-학습 목적에 맞춘 다양한 예제 코드(Task, Timer, Queue, Http, Wifi 등)를 포함하고 있으며, Pico SDK 및 FreeRTOS 환경 설정까지 직접 구성했습니다.
+이 저장소는 **Raspberry Pi Pico W**에서 **FreeRTOS와 Network**를 실습하며 **Raspberry Pi Pico W 모델의 활용 방법과 RTOS의 개념과 기능**을 학습 및 공유하기 위한 1인 프로젝트입니다.
+
+학습 목적에 맞춘 다양한 예제 코드(`Task, Timer, Queue, Http, Wifi 등`)를 포함하고 있으며, **Pico SDK 및 FreeRTOS 환경 설정**까지 직접 구성했습니다.
 <br><br>
 
+## 🛠️ 개발 환경
+
+- Ubuntu >= 20.04
+- Raspberry Pi Pico W
+- FreeRTOS Kernel
+- Raspberry Pi Pico SDK
+- CMake >= 3.13
+- arm-none-eabi-gcc
+- VScode
+<br><br>
 
 ## 📦 프로젝트 구조
 | 프로젝트 폴더(src)      | 설명                            |
