@@ -83,6 +83,39 @@ void lcd_draw_text(int x, int y, const char *str, uint16_t fg, uint16_t bg) {
     }
 }
 
+// 원래 크기대로 bitmap을 그려주는 함수
+void lcd_draw_bitmap(uint16_t x, uint16_t y, uint16_t w, uint16_t h, const uint16_t *bitmap) {
+    if (x >= LCD_WIDTH || y >= LCD_HEIGHT) return;
+    if (x + w > LCD_WIDTH) w = LCD_WIDTH - x;
+    if (y + h > LCD_HEIGHT) h = LCD_HEIGHT - y;
+
+    lcd_set_addr_window(x, y, x + w - 1, y + h - 1);
+
+    gpio_put(LCD_DC, 1);
+    gpio_put(LCD_CS, 0);
+
+    for (int i = 0; i < w * h; i++) {
+        uint8_t data[2] = { bitmap[i] >> 8, bitmap[i] & 0xFF };
+        spi_write_blocking(spi1, data, 2);
+    }
+
+    gpio_put(LCD_CS, 1);
+}
+
+// bitmap을 크게 확대해주는 함수
+void lcd_draw_bitmap_scaled(int x, int y, int w, int h, const uint16_t *data, int scale) {
+    for (int row = 0; row < h; row++) {
+        for (int col = 0; col < w; col++) {
+            uint16_t color = data[row * w + col];
+            for (int dy = 0; dy < scale; dy++) {
+                for (int dx = 0; dx < scale; dx++) {
+                    lcd_draw_pixel(x + col * scale + dx, y + row * scale + dy, color);
+                }
+            }
+        }
+    }
+}
+
 uint16_t rgb565(uint8_t r, uint8_t g, uint8_t b) {
     return ((r & 0xF8) << 8) |
            ((g & 0xFC) << 3) |
@@ -101,7 +134,7 @@ void lcd_init() {
     lcd_reset();
 
     lcd_send_cmd(0x11); sleep_ms(120); // Sleep out
-    lcd_send_cmd(0x36); lcd_send_data(0x00); // MADCTL
+    lcd_send_cmd(0x36); lcd_send_data(0xC0); // MADCTL
     lcd_send_cmd(0x3A); lcd_send_data(0x05); // 16bit
     lcd_send_cmd(0x29); // Display ON
 }
