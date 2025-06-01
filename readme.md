@@ -40,8 +40,9 @@
 mkdir pico-freertos
 export PICO_SDK_PATH=../../pico-sdk/
 
-# 1. 프로젝트 폴더 안에 Git clone (깃 복사)
+# 1. 프로젝트 폴더 안에 Git clone (깃 복사) 및 서브 모듈 초기화 (pico-sdk, FreeRTOS-Kernel)
 git clone https://github.com/lch-98/picow_freertos_study.git
+git submodule update --init --recursive
 
 # 2. 빌드 디렉토리 삭제 및 생성
 cd pico-freertos
