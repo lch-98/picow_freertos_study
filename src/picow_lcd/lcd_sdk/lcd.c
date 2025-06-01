@@ -102,7 +102,7 @@ void lcd_draw_bitmap(uint16_t x, uint16_t y, uint16_t w, uint16_t h, const uint1
     gpio_put(LCD_CS, 1);
 }
 
-// bitmap을 크게 확대해주는 함수
+// bitmap을 크게 확대 해주는 함수
 void lcd_draw_bitmap_scaled(int x, int y, int w, int h, const uint16_t *data, int scale) {
     for (int row = 0; row < h; row++) {
         for (int col = 0; col < w; col++) {

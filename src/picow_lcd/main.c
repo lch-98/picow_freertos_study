@@ -14,6 +14,7 @@ int main() {
 
     lcd_draw_text(10, 20, "Robot Engineer!!", rgb565(255, 255, 0), rgb565(0, 0, 0));
     // x=48,y=64에 위치하는 (16 by 16 pixel)정사각형 그리기 예시
+    
     // lcd_draw_bitmap(48, 64, 16, 16, umbrella_bitmap);
     // x=48,y=64에 위치하는 (16 by 16 pixel)정사각형을 두배 확대해서 32 by 32 pixel로 그리기 예시
     lcd_draw_bitmap_scaled(48, 64, 16, 16, umbrella_bitmap, 2);
