@@ -180,7 +180,7 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc \
- /home/lee/pico-freertos/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
  /usr/include/assert.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h \
  /usr/include/c++/9/iostream \

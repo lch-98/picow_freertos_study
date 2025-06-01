@@ -1,5 +1,5 @@
 CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/c_sdk_output.cpp \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/c_sdk_output.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/9/algorithm \
  /usr/include/c++/9/utility \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
@@ -149,7 +149,7 @@ CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/output_format.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/output_format.h \
  /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_uninitialized.h \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
@@ -170,9 +170,9 @@ CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: \
  /usr/include/c++/9/bits/atomic_base.h \
  /usr/include/c++/9/bits/atomic_lockfree_defines.h \
  /usr/include/c++/9/backward/auto_ptr.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_enums.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_disassembler.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_types.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_enums.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_disassembler.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_types.h \
  /usr/include/c++/9/set /usr/include/c++/9/bits/stl_set.h \
  /usr/include/c++/9/bits/stl_multiset.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/gen/location.h
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/gen/location.h

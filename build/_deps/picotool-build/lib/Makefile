@@ -175,1829 +175,1829 @@ mbedtls/fast:
 	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/build
 .PHONY : mbedtls/fast
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.c.s
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.o: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.o: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.o
 
 # target to build an object file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.o:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.o
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.o
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.o:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.o
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.o
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.i: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.i: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.i
 
 # target to preprocess a source file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.i:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.i
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.i
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.i:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.i
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.i
 
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.s: home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.s: home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.s
 
 # target to generate assembly for a file
-home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.s:
-	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.s
-.PHONY : home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.c.s
+home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.s:
+	cd /home/lee/pico-freertos/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/mbedtls.dir/build.make lib/CMakeFiles/mbedtls.dir/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.s
+.PHONY : home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.c.s
 
 # Help Target
 help:
@@ -2012,234 +2012,234 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... mbedtls"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aes.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aesni.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/arc4.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/aria.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1parse.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/asn1write.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/base64.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/bignum.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/blowfish.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/camellia.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ccm.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chacha20.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/chachapoly.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cipher_wrap.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/cmac.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/constant_time.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ctr_drbg.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/des.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/dhm.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdh.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecdsa.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecjpake.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ecp_curves.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/entropy_poll.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/error.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/gcm.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/havege.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hkdf.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/hmac_drbg.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md2.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md4.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/md5.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_reader.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/mps_trace.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/nist_kw.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/oid.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/padlock.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pem.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pk_wrap.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs12.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkcs5.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkparse.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/pkwrite.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/platform_util.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/poly1305.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_client.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_se.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/psa_its_file.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/ripemd160.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/rsa_internal.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha1.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha256.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/sha512.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/threading.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/timing.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/version_features.s"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.o"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.i"
-	@echo "... home/lee/pico-freertos/pico-sdk/lib/mbedtls/library/xtea.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aes.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aesni.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/arc4.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/aria.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1parse.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/asn1write.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/base64.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/bignum.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/blowfish.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/camellia.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ccm.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chacha20.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/chachapoly.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cipher_wrap.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/cmac.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/constant_time.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ctr_drbg.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/des.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/dhm.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdh.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecdsa.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecjpake.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ecp_curves.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/entropy_poll.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/error.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/gcm.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/havege.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hkdf.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/hmac_drbg.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md2.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md4.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/md5.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_reader.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/mps_trace.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/nist_kw.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/oid.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/padlock.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pem.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pk_wrap.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs12.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkcs5.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkparse.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/pkwrite.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/platform_util.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/poly1305.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_aead.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_client.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_driver_wrappers.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_hash.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_mac.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_se.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_crypto_storage.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/psa_its_file.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/ripemd160.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/rsa_internal.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha1.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha256.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/sha512.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/threading.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/timing.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/version_features.s"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.o"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.i"
+	@echo "... home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/library/xtea.s"
 .PHONY : help
 
 

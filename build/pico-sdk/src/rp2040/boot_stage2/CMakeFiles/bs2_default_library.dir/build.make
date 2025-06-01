@@ -71,7 +71,7 @@ include pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/flags
 
 pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S: pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default_padded_checksummed.S"
-	cd /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 && /usr/bin/python3.8 /home/lee/pico-freertos/pico-sdk/src/rp2040/boot_stage2/pad_checksum -s 0xffffffff /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+	cd /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 && /usr/bin/python3.8 /home/lee/pico-freertos/lib/pico-sdk/src/rp2040/boot_stage2/pad_checksum -s 0xffffffff /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
 
 pico-sdk/src/rp2040/boot_stage2/bs2_default.bin: pico-sdk/src/rp2040/boot_stage2/bs2_default.elf
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating bs2_default.bin"
@@ -104,6 +104,6 @@ pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/clean:
 
 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/depend: pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/depend: pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
-	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/lib/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/depend
 

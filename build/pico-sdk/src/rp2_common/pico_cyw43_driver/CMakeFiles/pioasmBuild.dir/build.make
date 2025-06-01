@@ -98,7 +98,7 @@ pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBui
 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-configure: pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-cache-Release.cmake
 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-configure: pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-patch
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lee/pico-freertos/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'pioasmBuild'"
-	cd /home/lee/pico-freertos/build/pioasm && /usr/local/bin/cmake --no-warn-unused-cli -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make -DPIOASM_FLAT_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lee/pico-freertos/build/pioasm-install -DCMAKE_RULE_MESSAGES=OFF -DCMAKE_INSTALL_MESSAGE=NEVER "-GUnix Makefiles" -C/home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-cache-Release.cmake -S /home/lee/pico-freertos/pico-sdk/tools/pioasm -B /home/lee/pico-freertos/build/pioasm
+	cd /home/lee/pico-freertos/build/pioasm && /usr/local/bin/cmake --no-warn-unused-cli -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make -DPIOASM_FLAT_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lee/pico-freertos/build/pioasm-install -DCMAKE_RULE_MESSAGES=OFF -DCMAKE_INSTALL_MESSAGE=NEVER "-GUnix Makefiles" -C/home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-cache-Release.cmake -S /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm -B /home/lee/pico-freertos/build/pioasm
 	cd /home/lee/pico-freertos/build/pioasm && /usr/local/bin/cmake -E touch /home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-configure
 
 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-download: pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-source_dirinfo.txt
@@ -152,6 +152,6 @@ pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/clean:
 .PHONY : pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/clean
 
 pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/depend:
-	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_cyw43_driver /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver /home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/lib/pico-sdk/src/rp2_common/pico_cyw43_driver /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver /home/lee/pico-freertos/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir/depend
 

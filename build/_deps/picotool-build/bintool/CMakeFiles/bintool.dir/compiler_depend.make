@@ -10,21 +10,21 @@ bintool/CMakeFiles/bintool.dir/bintool.cpp.o: /home/lee/pico-freertos/build/_dep
   /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h \
   /home/lee/pico-freertos/build/_deps/picotool-src/errors/errors.h \
   /home/lee/pico-freertos/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
-  /home/lee/pico-freertos/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -292,19 +292,19 @@ bintool/CMakeFiles/bintool.dir/bintool.cpp.o: /home/lee/pico-freertos/build/_dep
 bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/build/_deps/picotool-src/bintool/mbedtls_wrapper.c \
   /home/lee/pico-freertos/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
   /home/lee/pico-freertos/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -474,6 +474,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
 /usr/include/x86_64-linux-gnu/bits/stdio.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
@@ -518,10 +520,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
-
-/usr/include/x86_64-linux-gnu/bits/errno.h:
-
 /usr/include/x86_64-linux-gnu/bits/endian.h:
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
@@ -550,7 +548,9 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/std_abs.h:
 
-/usr/include/c++/9/bits/nested_exception.h:
+/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h:
+
+/usr/include/c++/9/bits/ostream_insert.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
@@ -564,19 +564,15 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/locale_classes.h:
 
-/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h:
-
-/usr/include/c++/9/bits/ostream_insert.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
-
 /usr/include/c++/9/bits/istream.tcc:
 
 /usr/include/c++/9/bits/ios_base.h:
 
-/usr/include/c++/9/bits/invoke.h:
-
 /usr/include/c++/9/bits/hash_bytes.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
+
+/usr/include/c++/9/bits/sstream.tcc:
 
 /usr/include/c++/9/bits/functexcept.h:
 
@@ -599,10 +595,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
 /usr/include/c++/9/bits/cpp_type_traits.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
 /usr/include/c++/9/bits/basic_string.tcc:
 
@@ -628,13 +620,23 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/stl_algo.h:
 
-/usr/include/c++/9/fstream:
+/usr/include/c++/9/bits/nested_exception.h:
 
-/usr/include/c++/9/bits/ptr_traits.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
 
-/usr/include/c++/9/bits/exception_ptr.h:
+/usr/include/x86_64-linux-gnu/bits/errno.h:
 
-/usr/include/c++/9/bits/sstream.tcc:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
+
+/usr/include/sched.h:
+
+/home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h:
+
+/usr/include/c++/9/exception:
+
+/usr/include/alloca.h:
+
+/usr/include/c++/9/bits/invoke.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
@@ -644,25 +646,9 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/stl_pair.h:
 
-/usr/include/sched.h:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
-/home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h:
-
-/usr/include/c++/9/exception:
-
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
-/usr/include/c++/9/bits/erase_if.h:
-
-/home/lee/pico-freertos/build/_deps/picotool-src/bintool/bintool.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
-
-/usr/include/alloca.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
-
-/usr/include/limits.h:
+/usr/include/c++/9/backward/binders.h:
 
 /usr/include/x86_64-linux-gnu/bits/sched.h:
 
@@ -670,13 +656,25 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/char_traits.h:
 
-/usr/include/c++/9/iostream:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+
+/usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h:
+
+/usr/include/c++/9/bits/fstream.tcc:
 
 /usr/include/c++/9/bits/exception.h:
 
 /usr/include/c++/9/cstdio:
 
 /usr/include/endian.h:
+
+/usr/include/c++/9/bits/ostream.tcc:
+
+/usr/include/c++/9/limits:
+
+/home/lee/pico-freertos/build/_deps/picotool-src/bintool/metadata.h:
+
+/usr/include/c++/9/bits/stl_function.h:
 
 /usr/include/c++/9/string:
 
@@ -702,7 +700,7 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
+/usr/include/limits.h:
 
 /usr/include/linux/limits.h:
 
@@ -710,45 +708,55 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/allocated_ptr.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
+/home/lee/pico-freertos/build/_deps/picotool-src/bintool/bintool.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+/usr/include/c++/9/bits/erase_if.h:
 
-/usr/include/c++/9/ext/new_allocator.h:
+/usr/include/c++/9/bits/exception_ptr.h:
 
-/usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h:
+/usr/include/c++/9/bits/ptr_traits.h:
 
-/usr/include/c++/9/bits/fstream.tcc:
+/usr/include/c++/9/fstream:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
 
-/home/lee/pico-freertos/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
 /usr/include/c++/9/bits/stl_relops.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
-/usr/include/c++/9/ext/alloc_traits.h:
+/home/lee/pico-freertos/lib/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/c++/9/bits/basic_ios.h:
+
+/usr/include/c++/9/cwchar:
+
+/usr/include/c++/9/bits/cxxabi_forced.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/c++/9/backward/auto_ptr.h:
 
 /usr/include/c++/9/bits/concept_check.h:
 
 /usr/include/assert.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h:
 
-/usr/include/c++/9/functional:
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
-/usr/include/c++/9/backward/binders.h:
+/usr/include/c++/9/bits/locale_facets.tcc:
 
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+/usr/include/c++/9/bits/algorithmfwd.h:
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
@@ -760,20 +768,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/cstdarg:
 
-/usr/include/c++/9/bits/cxxabi_forced.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
-
-/usr/include/c++/9/backward/auto_ptr.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-/usr/include/c++/9/bits/locale_facets.tcc:
-
-/usr/include/c++/9/bits/algorithmfwd.h:
-
 /usr/include/c++/9/bits/locale_classes.tcc:
 
 /usr/include/c++/9/bits/locale_facets.h:
@@ -781,6 +775,10 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 /usr/include/c++/9/bits/stringfwd.h:
 
 /usr/include/x86_64-linux-gnu/bits/string_fortified.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
 
 /usr/include/c++/9/bits/std_function.h:
 
@@ -832,7 +830,11 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/bits/alloc_traits.h:
 
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+
 /usr/include/c++/9/bits/stl_numeric.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
 
 /usr/include/c++/9/bits/stl_tempbuf.h:
 
@@ -872,8 +874,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/asm-generic/errno.h:
 
-/home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
-
 /usr/include/c++/9/clocale:
 
 /usr/include/c++/9/cstdint:
@@ -881,12 +881,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/c++/9/cstring:
-
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
-/usr/include/c++/9/bits/basic_ios.h:
-
-/usr/include/c++/9/cwchar:
 
 /usr/include/c++/9/cwctype:
 
@@ -896,7 +890,15 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/ext/aligned_buffer.h:
 
+/usr/include/c++/9/ext/alloc_traits.h:
+
 /usr/include/c++/9/ext/concurrence.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
+/usr/include/c++/9/ext/new_allocator.h:
 
 /usr/include/c++/9/stdexcept:
 
@@ -904,9 +906,13 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/ext/type_traits.h:
 
+/usr/include/c++/9/functional:
+
 /home/lee/pico-freertos/build/_deps/picotool-src/bintool/bintool.cpp:
 
 /usr/include/c++/9/initializer_list:
+
+/home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
 
 /usr/include/c++/9/ios:
 
@@ -914,13 +920,7 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /home/lee/pico-freertos/buil
 
 /usr/include/c++/9/iosfwd:
 
-/usr/include/c++/9/bits/ostream.tcc:
-
-/home/lee/pico-freertos/build/_deps/picotool-src/bintool/metadata.h:
-
-/usr/include/c++/9/bits/stl_function.h:
-
-/usr/include/c++/9/limits:
+/usr/include/c++/9/iostream:
 
 /usr/include/c++/9/memory:
 

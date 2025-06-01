@@ -86,6 +86,6 @@ pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/clean:
 .PHONY : pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/clean
 
 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/depend:
-	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lee/pico-freertos/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lee/pico-freertos /home/lee/pico-freertos/lib/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2 /home/lee/pico-freertos/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/depend
 

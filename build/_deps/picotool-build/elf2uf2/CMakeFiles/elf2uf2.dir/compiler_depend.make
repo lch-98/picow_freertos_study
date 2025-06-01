@@ -7,7 +7,7 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: /home/lee/pico-freertos/build/_dep
   /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h \
   /home/lee/pico-freertos/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
   /home/lee/pico-freertos/build/_deps/picotool-src/errors/errors.h \
-  /home/lee/pico-freertos/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+  /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -352,10 +352,6 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: /home/lee/pico-freertos/build/_dep
 
 /usr/include/c++/9/string:
 
-/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h:
-
-/usr/include/c++/9/bits/ostream_insert.h:
-
 /usr/include/time.h:
 
 /usr/include/c++/9/bits/nested_exception.h:
@@ -422,6 +418,10 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: /home/lee/pico-freertos/build/_dep
 
 /usr/include/c++/9/istream:
 
+/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h:
+
+/usr/include/c++/9/bits/ostream_insert.h:
+
 /usr/include/c++/9/bits/cpp_type_traits.h:
 
 /usr/include/c++/9/bits/basic_string.tcc:
@@ -445,8 +445,6 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: /home/lee/pico-freertos/build/_dep
 /usr/include/c++/9/bits/stl_relops.h:
 
 /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf.h:
-
-/home/lee/pico-freertos/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
 
 /usr/include/c++/9/bits/predefined_ops.h:
 
@@ -645,6 +643,8 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o: /home/lee/pico-freertos/build/_dep
 /usr/include/c++/9/ios:
 
 /usr/include/c++/9/bits/functional_hash.h:
+
+/home/lee/pico-freertos/lib/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
 
 /usr/include/c++/9/iosfwd:
 

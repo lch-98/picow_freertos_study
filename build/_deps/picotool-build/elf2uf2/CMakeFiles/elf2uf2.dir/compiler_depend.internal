@@ -8,7 +8,7 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h
  /home/lee/pico-freertos/build/_deps/picotool-src/elf2uf2/elf2uf2.h
  /home/lee/pico-freertos/build/_deps/picotool-src/errors/errors.h
- /home/lee/pico-freertos/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
  /usr/include/asm-generic/errno.h

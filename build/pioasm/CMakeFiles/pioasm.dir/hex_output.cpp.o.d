@@ -1,7 +1,7 @@
 CMakeFiles/pioasm.dir/hex_output.cpp.o: \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/hex_output.cpp \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/hex_output.cpp \
  /usr/include/stdc-predef.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/output_format.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/output_format.h \
  /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -150,7 +150,7 @@ CMakeFiles/pioasm.dir/hex_output.cpp.o: \
  /usr/include/c++/9/bits/atomic_base.h \
  /usr/include/c++/9/bits/atomic_lockfree_defines.h \
  /usr/include/c++/9/backward/auto_ptr.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_enums.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_enums.h \
  /usr/include/c++/9/iostream /usr/include/c++/9/ostream \
  /usr/include/c++/9/ios /usr/include/c++/9/bits/ios_base.h \
  /usr/include/c++/9/bits/locale_classes.h \

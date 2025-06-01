@@ -1,5 +1,5 @@
 CMakeFiles/pioasm.dir/main.cpp.o: \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/main.cpp \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -141,20 +141,20 @@ CMakeFiles/pioasm.dir/main.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_assembler.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_assembler.h \
  /usr/include/c++/9/algorithm /usr/include/c++/9/utility \
  /usr/include/c++/9/bits/stl_relops.h /usr/include/c++/9/bits/stl_algo.h \
  /usr/include/c++/9/bits/algorithmfwd.h \
  /usr/include/c++/9/bits/stl_heap.h /usr/include/c++/9/bits/stl_tempbuf.h \
  /usr/include/c++/9/bits/stl_construct.h \
  /usr/include/c++/9/bits/uniform_int_dist.h /usr/include/c++/9/limits \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/gen/parser.hpp \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/gen/parser.hpp \
  /usr/include/c++/9/fstream /usr/include/c++/9/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc /usr/include/c++/9/sstream \
  /usr/include/c++/9/bits/sstream.tcc \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_types.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_types.h \
  /usr/include/c++/9/map /usr/include/c++/9/bits/stl_tree.h \
  /usr/include/c++/9/ext/aligned_buffer.h \
  /usr/include/c++/9/bits/stl_map.h /usr/include/c++/9/tuple \
@@ -176,8 +176,8 @@ CMakeFiles/pioasm.dir/main.cpp.o: \
  /usr/include/c++/9/bits/atomic_base.h \
  /usr/include/c++/9/bits/atomic_lockfree_defines.h \
  /usr/include/c++/9/backward/auto_ptr.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/gen/location.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_enums.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/gen/location.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/gen/location.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_enums.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/gen/location.h \
  /usr/include/c++/9/cassert /usr/include/assert.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/output_format.h
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/output_format.h

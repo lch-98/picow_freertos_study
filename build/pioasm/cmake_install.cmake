@@ -1,4 +1,4 @@
-# Install script for directory: /home/lee/pico-freertos/pico-sdk/tools/pioasm
+# Install script for directory: /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

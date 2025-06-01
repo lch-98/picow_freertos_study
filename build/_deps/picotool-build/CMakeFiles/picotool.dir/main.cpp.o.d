@@ -238,10 +238,10 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/9/bits/stl_set.h /usr/include/c++/9/bits/stl_multiset.h \
  /usr/include/c++/9/cstdarg /usr/include/c++/9/iomanip \
  /usr/include/c++/9/bits/quoted_string.h \
- /home/lee/pico-freertos/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
- /home/lee/pico-freertos/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
- /home/lee/pico-freertos/pico-sdk/src/host/pico_platform/include/pico/platform.h \
- /home/lee/pico-freertos/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/host/pico_platform/include/pico/platform.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/get_enc_bootloader.h \
  /usr/include/c++/9/fstream \
@@ -249,13 +249,13 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc \
  /home/lee/pico-freertos/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
- /home/lee/pico-freertos/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
- /home/lee/pico-freertos/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/addresses.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/bintool/bintool.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
  /usr/include/c++/9/stdlib.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h \
@@ -265,30 +265,30 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
- /home/lee/pico-freertos/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+ /home/lee/pico-freertos/lib/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf_file.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/addresses.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/bintool/metadata.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
- /home/lee/pico-freertos/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
- /home/lee/pico-freertos/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
- /home/lee/pico-freertos/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
- /home/lee/pico-freertos/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
- /home/lee/pico-freertos/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
- /home/lee/pico-freertos/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
- /home/lee/pico-freertos/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/elf/elf.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/otp.h \
  /home/lee/pico-freertos/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
@@ -307,7 +307,7 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/9/bits/mask_array.h \
  /usr/include/c++/9/bits/indirect_array.h /usr/include/c++/9/version \
  /home/lee/pico-freertos/build/_deps/picotool-src/errors/errors.h \
- /home/lee/pico-freertos/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+ /home/lee/pico-freertos/lib/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
  /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h \

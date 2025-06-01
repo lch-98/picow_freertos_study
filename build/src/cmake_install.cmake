@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "Release")
+    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -43,6 +43,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/lee/pico-freertos/build/src/wifi_connect/cmake_install.cmake")
   include("/home/lee/pico-freertos/build/src/http_get/cmake_install.cmake")
   include("/home/lee/pico-freertos/build/src/http_weather/cmake_install.cmake")
+  include("/home/lee/pico-freertos/build/src/picow_lcd/cmake_install.cmake")
 
 endif()
 

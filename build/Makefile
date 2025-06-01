@@ -220,6 +220,19 @@ http_weather/fast:
 	$(MAKE) $(MAKESILENT) -f src/http_weather/CMakeFiles/http_weather.dir/build.make src/http_weather/CMakeFiles/http_weather.dir/build
 .PHONY : http_weather/fast
 
+#=============================================================================
+# Target rules for targets named picow_lcd
+
+# Build rule for target.
+picow_lcd: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 picow_lcd
+.PHONY : picow_lcd
+
+# fast build rule for target.
+picow_lcd/fast:
+	$(MAKE) $(MAKESILENT) -f src/picow_lcd/CMakeFiles/picow_lcd.dir/build.make src/picow_lcd/CMakeFiles/picow_lcd.dir/build
+.PHONY : picow_lcd/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -235,6 +248,7 @@ help:
 	@echo "... http_get"
 	@echo "... http_weather"
 	@echo "... picow_blink"
+	@echo "... picow_lcd"
 	@echo "... wifi_connect"
 .PHONY : help
 

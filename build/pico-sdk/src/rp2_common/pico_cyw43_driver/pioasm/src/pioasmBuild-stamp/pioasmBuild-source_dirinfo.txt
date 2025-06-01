@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=/home/lee/pico-freertos/pico-sdk/tools/pioasm
+source_dir=/home/lee/pico-freertos/lib/pico-sdk/tools/pioasm
 work_dir=
 

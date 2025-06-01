@@ -1,5 +1,5 @@
 CMakeFiles/pioasm.dir/pio_disassembler.cpp.o: \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_disassembler.cpp \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_disassembler.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/9/array \
  /usr/include/c++/9/utility \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
@@ -155,8 +155,8 @@ CMakeFiles/pioasm.dir/pio_disassembler.cpp.o: \
  /usr/include/c++/9/bits/unique_ptr.h /usr/include/c++/9/tuple \
  /usr/include/c++/9/bits/uses_allocator.h \
  /usr/include/c++/9/bits/invoke.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_disassembler.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_types.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_disassembler.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_types.h \
  /usr/include/c++/9/map /usr/include/c++/9/bits/stl_tree.h \
  /usr/include/c++/9/ext/aligned_buffer.h \
  /usr/include/c++/9/bits/stl_map.h /usr/include/c++/9/bits/stl_multimap.h \
@@ -177,6 +177,6 @@ CMakeFiles/pioasm.dir/pio_disassembler.cpp.o: \
  /usr/include/c++/9/bits/atomic_base.h \
  /usr/include/c++/9/bits/atomic_lockfree_defines.h \
  /usr/include/c++/9/backward/auto_ptr.h \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/gen/location.h \
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/gen/location.h \
  /usr/include/c++/9/iostream \
- /home/lee/pico-freertos/pico-sdk/tools/pioasm/pio_enums.h
+ /home/lee/pico-freertos/lib/pico-sdk/tools/pioasm/pio_enums.h
