@@ -2,7 +2,7 @@
 # 해당 32바이트 한글 비트맵을 font5x7.h에 복사 붙여넣기 후 한글 사용
 from PIL import Image, ImageFont, ImageDraw
 
-def get_bitmap(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothicCoding.ttf", size=16):
+def get_bitmap(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothicCoding-Bold.ttf", size=16):
     font = ImageFont.truetype(font_path, size)
     image = Image.new("L", (size, size), 0)
     draw = ImageDraw.Draw(image)
@@ -28,8 +28,8 @@ def get_bitmap(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothicCodin
 
     return bitmap
 
-# "기" 문자 추출
-bmp = get_bitmap("음")
+# 문자 추출
+bmp = get_bitmap("℃")
 
 # 출력
 for i in range(0, 32, 2):

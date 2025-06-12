@@ -1,6 +1,6 @@
 from PIL import Image, ImageFont, ImageDraw
 
-def get_bitmap_8x16(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothicCoding.ttf", size=16):
+def get_bitmap_8x16(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothicCoding-Bold.ttf", size=16):
     font = ImageFont.truetype(font_path, size)
     image = Image.new("L", (size, size), 0)
     draw = ImageDraw.Draw(image)
@@ -21,7 +21,7 @@ def get_bitmap_8x16(char, font_path="/usr/share/fonts/truetype/nanum/NanumGothic
     return bitmap
 
 # 문자 추출
-bmp = get_bitmap_8x16('.')
+bmp = get_bitmap_8x16('5')
 
 # 출력: 1바이트씩, 16줄 = 총 16바이트
 for b in bmp:

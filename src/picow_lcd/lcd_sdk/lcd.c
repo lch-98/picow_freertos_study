@@ -130,25 +130,6 @@ void lcd_draw_text_mixed(int x, int y, const char *str, uint16_t fg, uint16_t bg
     }
 }
 
-// 원래 크기대로 bitmap을 그려주는 함수
-void lcd_draw_bitmap(uint16_t x, uint16_t y, uint16_t w, uint16_t h, const uint16_t *bitmap) {
-    if (x >= LCD_WIDTH || y >= LCD_HEIGHT) return;
-    if (x + w > LCD_WIDTH) w = LCD_WIDTH - x;
-    if (y + h > LCD_HEIGHT) h = LCD_HEIGHT - y;
-
-    lcd_set_addr_window(x, y, x + w - 1, y + h - 1);
-
-    gpio_put(LCD_DC, 1);
-    gpio_put(LCD_CS, 0);
-
-    for (int i = 0; i < w * h; i++) {
-        uint8_t data[2] = { bitmap[i] >> 8, bitmap[i] & 0xFF };
-        spi_write_blocking(spi1, data, 2);
-    }
-
-    gpio_put(LCD_CS, 1);
-}
-
 // bitmap을 크게 확대 해주는 함수
 void lcd_draw_bitmap_scaled(int x, int y, int w, int h, const uint16_t *data, int scale) {
     for (int row = 0; row < h; row++) {
@@ -162,6 +143,34 @@ void lcd_draw_bitmap_scaled(int x, int y, int w, int h, const uint16_t *data, in
         }
     }
 }
+
+void convert_signnum_bitmap_to_rgb565(const uint8_t *bitmap, uint16_t *out, int width, int height, uint16_t fg, uint16_t bg) {
+    for (int row = 0; row < height; row++) {
+        uint8_t byte = bitmap[row];
+        for (int col = 0; col < width; col++) {
+            uint16_t color = (byte & (0x80 >> col)) ? fg : bg;
+            out[row * width + col] = color;
+        }
+    }
+}
+
+void lcd_draw_signnum_scaled(int x, int y, uint16_t unicode, uint16_t fg, uint16_t bg, int scale) {
+    const uint8_t *bitmap = find_signnum_bitmap(unicode);
+    if (!bitmap) return;
+
+    uint16_t buffer[8 * 16]; // 8x16 픽셀용 버퍼
+    convert_signnum_bitmap_to_rgb565(bitmap, buffer, 8, 16, fg, bg);
+    lcd_draw_bitmap_scaled(x, y, 8, 16, buffer, scale);
+}
+
+void lcd_draw_signnum_string_scaled(int x, int y, const char *str, uint16_t fg, uint16_t bg, int scale) {
+    while (*str) {
+        lcd_draw_signnum_scaled(x, y, *str, fg, bg, scale);
+        x += 8 * scale;  // 문자 폭 8 * 배율만큼 이동
+        str++;
+    }
+}
+
 
 uint16_t rgb565(uint8_t r, uint8_t g, uint8_t b) {
     return ((r & 0xF8) << 8) |
