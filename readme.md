@@ -42,8 +42,7 @@ cd picow_freertos_study
 git submodule update --init --recursive
 export PICO_SDK_PATH=$PWD/lib/pico-sdk
 
-# 2. 빌드 디렉토리 삭제 및 생성
-rm -rf build
+# 2. 빌드 디렉토리 생성
 mkdir build
 cd build
 
