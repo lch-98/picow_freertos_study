@@ -1,5 +1,0 @@
-/home/lee/pico-freertos/build/pioasm-install/pioasm/pioasm
-/home/lee/pico-freertos/build/pioasm-install/pioasm/pioasmTargets.cmake
-/home/lee/pico-freertos/build/pioasm-install/pioasm/pioasmTargets-release.cmake
-/home/lee/pico-freertos/build/pioasm-install/pioasm/pioasmConfig.cmake
-/home/lee/pico-freertos/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

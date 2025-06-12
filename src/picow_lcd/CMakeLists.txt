@@ -1,7 +1,7 @@
 add_executable(picow_lcd
     main.c
     lcd_sdk/lcd.c
-    lcd_sdk/font5x7.c
+    lcd_sdk/font.c
 )
 
 target_include_directories(picow_lcd PRIVATE

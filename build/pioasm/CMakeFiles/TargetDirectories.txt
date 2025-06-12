@@ -1,7 +1,0 @@
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/pioasm.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/edit_cache.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/list_install_components.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/install.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/install/local.dir
-/home/lee/pico-freertos/build/pioasm/CMakeFiles/install/strip.dir

@@ -24,7 +24,7 @@
 | wifi_connect | pico W 보드 Wifi 연결       |
 | http_get   | pico W 보드 http 테스트 도메인에서 GET 요청 후 Json 데이터 파싱 |
 | http_weather | pico W 보드 http로 기상청 API 받아오기, Json 데이터 파싱 및 NTP 동기화  |
-| picow_lcd | SPI 설정 후 pico W 보드 LCD 연결 후 화면 출력 |
+| picow_lcd | SPI 설정 후 pico W 보드 LCD 연결 후 화면 출력, korean_bitmap.py파일로 직접 배열 추출 |
 
 |프로젝트 폴더(lib)  | 설명                           |
 |-----------------|---------------------------------|
